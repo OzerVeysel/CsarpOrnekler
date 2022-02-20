@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\bin\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\bin\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\bin\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\bin\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\bin\Debug\net6.0\ref\Degiskenler_Ve_Veri_Tipleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\bin\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\ref\Degiskenler_Ve_Veri_Tipleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\Degiskenler_Ve_Veri_Tipleri\obj\Debug\net6.0\Degiskenler_Ve_Veri_Tipleri.genruntimeconfig.cache

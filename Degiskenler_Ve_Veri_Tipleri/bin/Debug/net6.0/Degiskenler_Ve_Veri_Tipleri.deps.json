@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Degiskenler_Ve_Veri_Tipleri/1.0.0": {
+        "runtime": {
+          "Degiskenler_Ve_Veri_Tipleri.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Degiskenler_Ve_Veri_Tipleri/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
