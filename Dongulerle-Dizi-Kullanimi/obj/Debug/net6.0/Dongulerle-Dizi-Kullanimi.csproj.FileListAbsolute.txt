@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\bin\Debug\net6.0\Dongulerle-Dizi-Kullanimi.exe
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\bin\Debug\net6.0\Dongulerle-Dizi-Kullanimi.deps.json
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\bin\Debug\net6.0\Dongulerle-Dizi-Kullanimi.runtimeconfig.json
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\bin\Debug\net6.0\Dongulerle-Dizi-Kullanimi.dll
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\bin\Debug\net6.0\ref\Dongulerle-Dizi-Kullanimi.dll
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\bin\Debug\net6.0\Dongulerle-Dizi-Kullanimi.pdb
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.AssemblyInfo.cs
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.dll
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\ref\Dongulerle-Dizi-Kullanimi.dll
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.pdb
+C:\Users\veyse\Desktop\Dongulerle-Dizi-Kullanimi\obj\Debug\net6.0\Dongulerle-Dizi-Kullanimi.genruntimeconfig.cache
