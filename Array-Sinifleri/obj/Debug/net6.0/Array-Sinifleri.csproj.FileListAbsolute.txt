@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\bin\Debug\net6.0\Array-Sinifleri.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\bin\Debug\net6.0\Array-Sinifleri.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\bin\Debug\net6.0\Array-Sinifleri.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\bin\Debug\net6.0\Array-Sinifleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\bin\Debug\net6.0\ref\Array-Sinifleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\bin\Debug\net6.0\Array-Sinifleri.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\ref\Array-Sinifleri.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\Array-Sinifleri\obj\Debug\net6.0\Array-Sinifleri.genruntimeconfig.cache
