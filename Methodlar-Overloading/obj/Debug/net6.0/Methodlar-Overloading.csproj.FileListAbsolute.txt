@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\bin\Debug\net6.0\Methodlar-Overloading.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\bin\Debug\net6.0\Methodlar-Overloading.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\bin\Debug\net6.0\Methodlar-Overloading.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\bin\Debug\net6.0\Methodlar-Overloading.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\bin\Debug\net6.0\ref\Methodlar-Overloading.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\bin\Debug\net6.0\Methodlar-Overloading.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\ref\Methodlar-Overloading.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\Methodlar-Overloading\obj\Debug\net6.0\Methodlar-Overloading.genruntimeconfig.cache
