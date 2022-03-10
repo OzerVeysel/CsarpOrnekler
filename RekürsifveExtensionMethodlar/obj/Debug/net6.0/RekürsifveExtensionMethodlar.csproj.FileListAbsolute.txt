@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\bin\Debug\net6.0\RekürsifveExtensionMethodlar.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\bin\Debug\net6.0\RekürsifveExtensionMethodlar.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\bin\Debug\net6.0\RekürsifveExtensionMethodlar.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\bin\Debug\net6.0\RekürsifveExtensionMethodlar.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\bin\Debug\net6.0\ref\RekürsifveExtensionMethodlar.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\bin\Debug\net6.0\RekürsifveExtensionMethodlar.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\ref\RekürsifveExtensionMethodlar.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\RekürsifveExtensionMethodlar\obj\Debug\net6.0\RekürsifveExtensionMethodlar.genruntimeconfig.cache
