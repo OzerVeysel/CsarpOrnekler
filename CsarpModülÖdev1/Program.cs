@@ -68,7 +68,31 @@ namespace CsarpModülOrnek1
                     Console.WriteLine(sayılar2[i] +"m Sayısına Bölünemez ve Eşit Değildir.");
                 }
             }
-        
+
+             // Bir konsol uygulamasında kullanıcıdan pozitif bir sayı girmesini isteyin (n).
+             //  Sonrasında kullanıcıdan n adet kelime girmesi isteyin.
+             //  Kullanıcının girişini yaptığı kelimeleri sondan başa doğru console'a yazdırın.
+
+                Console.WriteLine("Lütfen Bir Sayı Giriniz : ");
+                int deger = Convert.ToInt32(Console.ReadLine());
+                string[] kelimeler = new string[deger];
+                for (int i = 0; i < deger; i++)
+                {
+                    Console.WriteLine("Lütfen {0}. Kelimeyi Giriniz.",i+1);
+                    kelimeler[i] = Console.ReadLine();
+                }
+
+                foreach (var kelime in kelimeler)
+                {
+                    Console.WriteLine(kelime);
+                }
+                
+                Array.Reverse(kelimeler);
+                foreach (var kelime in kelimeler)
+                {
+                    Console.WriteLine(kelime);
+                }
+           
             
         }
     }
