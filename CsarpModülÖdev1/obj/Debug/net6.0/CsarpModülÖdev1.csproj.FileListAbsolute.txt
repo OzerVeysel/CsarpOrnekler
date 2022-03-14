@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\bin\Debug\net6.0\CsarpModülÖdev1.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\bin\Debug\net6.0\CsarpModülÖdev1.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\bin\Debug\net6.0\CsarpModülÖdev1.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\bin\Debug\net6.0\CsarpModülÖdev1.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\bin\Debug\net6.0\ref\CsarpModülÖdev1.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\bin\Debug\net6.0\CsarpModülÖdev1.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\ref\CsarpModülÖdev1.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\CsarpModülÖdev1\obj\Debug\net6.0\CsarpModülÖdev1.genruntimeconfig.cache
