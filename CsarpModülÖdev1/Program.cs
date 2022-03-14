@@ -93,6 +93,24 @@ namespace CsarpModülOrnek1
                     Console.WriteLine(kelime);
                 }
            
+            // Bir konsol uygulamasında kullanıcıdan bir cümle yazması isteyin.
+            // Cümledeki toplam kelime ve harf sayısını console'a yazdırın.
+
+
+                Console.WriteLine("Bir Cümle Giriniz ");
+                string cumle =Console.ReadLine();
+                string[] kelimesayisi = cumle.Split(" ");
+                char[] harfler = cumle.ToCharArray();
+
+                int harfSayisi = 0;
+
+                Console.WriteLine("Verilen Cümlede {0} Kelime Vardır.",kelimesayisi.Length);
+                for (int i = 0; i < kelimesayisi.Length; i++)
+                {
+                    char[] harfdizi = kelimesayisi[i].ToCharArray();
+                    harfSayisi += harfdizi.Length;
+                }
+                System.Console.WriteLine("Verilen Cümlede {0} Harf Vardır.",harfSayisi);
             
         }
     }
