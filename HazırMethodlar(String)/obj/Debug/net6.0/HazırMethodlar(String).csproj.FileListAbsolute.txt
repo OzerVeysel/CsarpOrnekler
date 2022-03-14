@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\bin\Debug\net6.0\HazırMethodlar(String).exe
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\bin\Debug\net6.0\HazırMethodlar(String).deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\bin\Debug\net6.0\HazırMethodlar(String).runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\bin\Debug\net6.0\HazırMethodlar(String).dll
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\bin\Debug\net6.0\ref\HazırMethodlar(String).dll
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\bin\Debug\net6.0\HazırMethodlar(String).pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).dll
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\ref\HazırMethodlar(String).dll
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\HazırMethodlar(String)\obj\Debug\net6.0\HazırMethodlar(String).genruntimeconfig.cache
