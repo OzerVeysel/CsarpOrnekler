@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\bin\Debug\net6.0\DatetimeveMathSınıfları.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\bin\Debug\net6.0\DatetimeveMathSınıfları.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\bin\Debug\net6.0\DatetimeveMathSınıfları.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\bin\Debug\net6.0\DatetimeveMathSınıfları.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\bin\Debug\net6.0\ref\DatetimeveMathSınıfları.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\bin\Debug\net6.0\DatetimeveMathSınıfları.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\ref\DatetimeveMathSınıfları.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\DatetimeveMathSınıfları\obj\Debug\net6.0\DatetimeveMathSınıfları.genruntimeconfig.cache
