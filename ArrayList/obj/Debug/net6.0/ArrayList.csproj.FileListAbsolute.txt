@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\bin\Debug\net6.0\ArrayList.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\bin\Debug\net6.0\ArrayList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
