@@ -1,0 +1,15 @@
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\bin\Debug\net6.0\GenericKoleksiyonlarveList.exe
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\bin\Debug\net6.0\GenericKoleksiyonlarveList.deps.json
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\bin\Debug\net6.0\GenericKoleksiyonlarveList.runtimeconfig.json
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\bin\Debug\net6.0\GenericKoleksiyonlarveList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\bin\Debug\net6.0\ref\GenericKoleksiyonlarveList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\bin\Debug\net6.0\GenericKoleksiyonlarveList.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.csproj.AssemblyReference.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.AssemblyInfoInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.AssemblyInfo.cs
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.csproj.CoreCompileInputs.cache
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\ref\GenericKoleksiyonlarveList.dll
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.pdb
+C:\Users\veyse\Desktop\CsarpOrnekler\GenericKoleksiyonlarveList\obj\Debug\net6.0\GenericKoleksiyonlarveList.genruntimeconfig.cache
